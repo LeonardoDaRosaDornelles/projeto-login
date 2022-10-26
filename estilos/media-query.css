@@ -7,11 +7,12 @@
 
     #login{
         width: 90vw;
+        height:280px;
     }
 
     #login > #imagem{
         float: left;
-        width: 50%;
+        width: 47%;
         height: 100%;
     }
 
@@ -28,6 +29,7 @@
 
     #login{
         width: 950px;
+        height:350px;
     }
 
     #login > #imagem{
